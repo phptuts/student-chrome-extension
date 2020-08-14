@@ -2,9 +2,15 @@
 
 This was done as a demo for students to mess with.
 
-## Download Zip
+## Download Zip and Unzip
 
 [Zip File](https://github.com/phptuts/student-chrome-extension/archive/master.zip)
+
+Go to to load the extension
+
+```
+chrome://extensions
+```
 
 ## Other Web Examples
 
